@@ -1,0 +1,27 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.jumbotron{
+    background: url('Web.jpg') no-repeat center center;
+    color: white;
+    font-weight: bold;
+}
+footer{
+    background: rgb(44, 44, 44);
+    color: white;
+    padding: 10px;
+}
+footer ul{
+    list-style-type: none;
+}
+footer ul li a{
+    text-decoration: none;
+    color: white;
+
+}
+.social-icon{
+    float: right;
+    margin-right: 10px;
+    
+}
